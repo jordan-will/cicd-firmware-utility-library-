@@ -12,5 +12,7 @@ float fahrenheit_to_celsius(float fahrenheit)
 
 float celsius_to_kelvin(float celsius)
 {
-    return celsius + 273.15f;
+    float kelvin = celsius + 273.15f;
+
+    return kelvin;
 }
