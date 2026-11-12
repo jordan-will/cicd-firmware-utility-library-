@@ -1,0 +1,29 @@
+
+# Compiled objects and binaries
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+
+# Build directories
+build/
+dist/
+
+# Debugging and temporary files
+*.log
+*.tmp
+
+# IDE and editor configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
