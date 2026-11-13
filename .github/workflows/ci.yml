@@ -20,7 +20,7 @@ jobs:
             - name: Configure build enviroment
               run: |
                 gcc --version
-                make -- version 
+                make --version 
             - name: Compile project
               run: make
 
