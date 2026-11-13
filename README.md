@@ -1,4 +1,4 @@
-# Project 01 — Git Workflow & Automated CI Pipeline
+# Firmware & Automated CI Pipeline
 
 ## Overview
 
